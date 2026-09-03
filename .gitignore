@@ -19,3 +19,7 @@ __pycache__/
 *.log
 .DS_Store
 ._*
+*.safe-backup
+*.db
+*.sqlite
+*.sqlite3
